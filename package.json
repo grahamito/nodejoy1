@@ -1,8 +1,8 @@
 {
-	"name": "my-app",
-	"version": "v0.4.11",
-	"scripts": {
-		   "start": "node server.js"
-		   },
-		   "dependencies": {}
+    "name": "my-app",
+    "version": "v0.4.10",
+    "scripts": {
+	"start": "node server.js"
+    },
+    "dependencies": {}
 }
