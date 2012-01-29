@@ -1,6 +1,6 @@
 {
     "name": "my-app",
-    "version": "v0.4.10",
+    "version": "latest stable",
     "scripts": {
 	"start": "node server.js"
     },
